@@ -26,3 +26,5 @@ outlet locations, and other key business metrics.
 ## Dashboard
 The interactive Excel dashboard was created to analyze sales performance
 and identify useful business insights.
+
+![Blinkit Dashboard](Blinkit_Dashboard.png)
